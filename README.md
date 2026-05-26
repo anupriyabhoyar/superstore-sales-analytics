@@ -28,7 +28,7 @@ An end-to-end data analytics project analyzing **9,994 retail transactions** fro
 | 3 | Are discounts reducing profits? | Yes — 50% discount = -$310 avg profit |
 | 4 | Which categories are underperforming? | Office Supplies has lowest revenue |
 | 5 | What trends exist over time? | Peak sales in November |
-| 6 | Which customers contribute the most? | Tamara Chand — $8,981 profit |
+| 6 | Which customers contribute the most? | Tamara Chand — highest profit ($8,981) vs Sean Miller — highest spender ($25,043) but negative profit (-$1,980) | 
 
 ---
 
@@ -143,6 +143,6 @@ LIMIT 10;
 1. **Technology** is the highest revenue category at **$836K** — 16% above Furniture
 2. **West region** leads in both sales and profit — Central region needs attention
 3. **Discounts above 20% generate negative profit** — capping at 20% is recommended
-4. **Sean Miller** is the top spender but generates **negative profit** (-$1,980)
+4. **Sean Miller** is the highest spender ($25,043) but generates **negative profit (-$1,980)** — **Tamara Chand** is the truly most valuable customer with $8,981 profit
 5. **November** shows the highest monthly revenue — ideal for major campaigns
 6. **12.47% profit margin** is below the 20% retail industry average
