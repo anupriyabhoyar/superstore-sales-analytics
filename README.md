@@ -6,6 +6,17 @@
 
 An end-to-end data analytics project analyzing **9,994 retail transactions** from the Superstore dataset to uncover revenue trends, customer behavior, and profitability insights using SQL, Excel, and Power BI.
 
+## 📂 Dataset Details
+
+| Detail | Info |
+|---|---|
+| **Name** | Superstore Sales Dataset |
+| **Source** | Kaggle |
+| **Rows** | 9,994 |
+| **Columns** | 21 |
+| **Date Range** | 2014 — 2017 |
+| **Region** | United States |
+| **Industry** | Retail / E-Commerce |
 ---
 
 ## 🎯 Business Problems Solved
