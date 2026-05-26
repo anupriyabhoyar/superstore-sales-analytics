@@ -27,18 +27,18 @@ An end-to-end data analytics project analyzing **9,994 retail transactions** fro
 superstore-analytics/
 │
 ├── data/
-│   └── Superstore_cleaned.csv       # Cleaned dataset
+│   └── Superstore_cleaned.csv       
 │
 ├── sql/
-│   ├── create_table.sql             # Table creation query
-│   ├── analysis_queries.sql         # 5 analysis queries
-│   └── kpi_queries.sql              # 6 KPI calculations
+│   ├── create_table.sql          
+│   ├── analysis_queries.sql        
+│   └── kpi_queries.sql             
 │
 ├── dashboard/
-│   └── Superstore_Dashboard.pbix    # Power BI dashboard
+│   └── Superstore_Dashboard.pbix    
 │
 ├── insights/
-│   └── Superstore_SQL_Insights.docx # Full insights report
+│   └── Superstore_SQL_Insights.docx
 │
 └── README.md
 ```
